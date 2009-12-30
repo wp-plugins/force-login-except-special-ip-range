@@ -4,7 +4,7 @@ Donate link:
 Tags: force user login, password, intranet, ip range
 Requires at least: 2.9
 Tested up to: 2.9
-Stable tag: 0.1
+Stable tag: 0.2
 
 Forces all anonymous users to login except the user connects from special ip ranges or a specific IP4 address. 
 
@@ -40,7 +40,11 @@ No screenshot.
 
 == Changelog ==
 
-0.1 initial version
+= 0.2 =
+ Now it is written object oriented
+
+= 0.1 =
+ initial version
 
 == Upgrade Notice ==
 
